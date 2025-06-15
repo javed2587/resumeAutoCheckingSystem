@@ -1,0 +1,54 @@
+JAVED IQBAL
+Full Stack Java + Angular Developer
+📍 Pakistan (Open to Remote/Hybrid)
+📧 javediqbalslic5@gmail.com | 📞 +92-300-4637538
+🔗 https://www.linkedin.com/in/javed-iqbal-a74877114/
+Professional Summary
+Experienced Full Stack Developer with 5+ years of expertise in designing and developing scalable web and mobile-friendly applications using Java, Spring Boot, Angular, and MySQL. Proven ability to build RESTful APIs, manage secure authentication systems, and create dynamic front-end interfaces. Strong understanding of SDLC, Agile methodologies, and CI/CD pipelines. After a medical recovery break, currently refreshing skills and actively seeking a remote/hybrid opportunity to rejoin the tech industry with full dedication and energy.
+Technical Skills
+• Languages: Java, TypeScript, JavaScript, HTML5, CSS3
+• Frameworks: Spring Boot, Spring MVC, Angular 16, Bootstrap
+• Databases: MySQL, MS SQL Server
+• Tools: Git, GitHub, Maven, SVN, Firebase, Postman
+• Other: REST APIs, JWT Authentication, AES/SHA Encryption, Agile, Video Editing (Filmora, Camtasia)
+Core Competencies
+• Full Stack Web Development (Java + Angular)
+• RESTful APIs Development
+• Front-End Component Design & State Management
+• Secure Authentication & Token Management
+• Cross-functional Team Collaboration
+• Performance Optimization & Bug Fixing
+
+Project Experience
+Work Excellence (Client: USA)
+Tech: Java, Spring Boot, Angular, PrimeNG, MySQL
+• Built and integrated multiple front-end dashboards using Angular.
+• Designed search forms, dynamic graphs, and PDF download functionality.
+• Developed backend APIs and managed component logic for real-time updates.
+Compliance Rewards (Client: USA)
+Tech: Java, Spring Boot, Hibernate, MySQL
+• Developed REST APIs for Android/iOS wallet apps.
+• Integrated Firebase for push notifications and cron jobs for auto-reminders.
+• Implemented points system and order tracking via APIs.
+ChatBot Security System (Client: USA)
+Tech: Java
+• Implemented AES-256 encryption and SHA-2 hashing for secure data exchange.
+Klozerz CRM
+Tech: Java, Liferay
+• Enhanced CRM with modules for Leads, Contacts, Calendar, Notes, Expenses, and Reports.
+DCP Laundry Desktop App (Pakistan)
+Tech: Java, Angular, Electron
+• Created a desktop solution with barcode scanning, invoice generation, and full order management.
+• Supported offline processing and real-time sync with mobile data.
+Education & Certification
+• MSc in Computer Science
+• Certification: Learning Java – LinkedIn Learning – Issued Dec 2021
+  https://www.linkedin.com/learning/learning-java-4
+Additional Skills
+• Video Editing & Thumbnails: Filmora, Camtasia, InShot
+• YouTube Channel Management: SEO, optimization, copyright-safe content
+• Social Media: Facebook Page linking, post management, audience targeting
+Interests
+Programming, YouTube, Inline Skating, Reading News, Cycling
+References
+Available upon request.
